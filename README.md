@@ -2,12 +2,32 @@
 
 I am an experienced Product Manager with a demonstrated history of working in the retail industry. Skilled in Software Requirements, Automated Software Testing, Web Services API, and Management. Strong media and communication professional with a Master of Business Administration - from University of Minnesota - Carlson School of Management.
 
-### Markdown
+## Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### BEST BUY, Richfield, MN - Web Product Detail Page (PDP) Digital Team
+### Product Manager
 
-```markdown
-Syntax highlighted code block
+- Oversee delivery of 6~10 Product and Engineering initiatives per quarter by prioritizing work for the team that
+meets customer needs and coordinating activities across cross-functional teams.
+- Actively manage the backlog for two scrum teams and plan their sprints with an outcome focused mindset.
+- Participate in Product discovery and user research sessions to get a deeper understanding of customer problems.
+- Lead PDP Product team on programs like Demystify-the-tech (for Smart Home Doorbells), Best Buy
+Memberships, Iconic SKU Launch, etc. with the objective to drive customer traffic and increase conversion.
+- Understand and assist to implement Product strategy and vision through Objectives and Key Results (OKRs).
+- Co-create initiatives and encourage the engineering team to be self-driven and get the right things done.
+- Create analytics reports in Adobe to determine project success and discover new product ideas.
+- Collect, compile, & transition functional/technical aspects for projects using tools - JIRA, Confluence and MIRO.
+
+## Education
+### Master of Business Administration (GPA - 3.86) - Strategy Management and Entrepreneurship
+UNIVERSITY OF MINNESOTA, Minneapolis, MN
+Carlson School of Management
+May 2020
+
+### Bachelor of Engineering - Electronics and Telecommunications
+UNIVERSITY OF MUMBAI, Mumbai, India
+May 2008
+
 
 # Header 1
 ## Header 2
