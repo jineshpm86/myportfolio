@@ -1,6 +1,6 @@
-## Jinesh Meisheri
+## Portfolio
 
-Experienced Product Manager with a demonstrated history of working in the retail industry. Skilled in Software Requirements, Automated Software Testing, Web Services API, and Management. Strong media and communication professional with a Master of Business Administration - from University of Minnesota - Carlson School of Management.
+I am an experienced Product Manager with a demonstrated history of working in the retail industry. Skilled in Software Requirements, Automated Software Testing, Web Services API, and Management. Strong media and communication professional with a Master of Business Administration - from University of Minnesota - Carlson School of Management.
 
 ### Markdown
 
