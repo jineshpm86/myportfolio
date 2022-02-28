@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Jinesh Meisheri
 
-You can use the [editor on GitHub](https://github.com/jineshpm86/myportfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Experienced Product Manager with a demonstrated history of working in the retail industry. Skilled in Software Requirements, Automated Software Testing, Web Services API, and Management. Strong media and communication professional with a Master of Business Administration - from University of Minnesota - Carlson School of Management.
 
 ### Markdown
 
